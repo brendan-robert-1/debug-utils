@@ -1,2 +1,2 @@
 # debug-utils
-debugging utils for kotlin and spring
+Debugging utils for kotlin and spring
